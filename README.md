@@ -41,3 +41,6 @@ A competitive two‑player twist on the classic Tetris game. One player drops bl
 3. **Compile**  
     ```bash
     java -cp out Tetris
+
+
+Made with ❤️ for VARLAB 2024 Game Jam
