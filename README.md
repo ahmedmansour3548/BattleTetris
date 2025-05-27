@@ -3,7 +3,7 @@
 [![Java Version](https://img.shields.io/badge/Java-11%2B-blue)](https://www.oracle.com/java/)  
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey)](LICENSE)
 
-A competitive two‑player twist on the classic Tetris game: one player drops blocks from the top, the other from the bottom—meeting in the middle. Fast, frenetic, and perfect for head‑to‑head showdowns!
+A competitive two‑player twist on the classic Tetris game: one player drops blocks from the top, the other from the bottom.
 
 ---
 
