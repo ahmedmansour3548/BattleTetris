@@ -8,30 +8,7 @@
 </p>
 
 
-A competitive two‑player twist on the classic Tetris game: one player drops blocks from the top, the other from the bottom—meeting in the middle. Fast, frenetic, and perfect for head‑to‑head showdowns!
-
----
-
-## 🎯 Features
-
-- **Dual‑direction play**  
-  – Player 1 drops pieces from the top ↓  
-  – Player 2 drops pieces from the bottom ↑  
-- **Passing over**  
-  Pieces may overlap the opponent’s falling blocks (semi‑transparent) but only “fix” when they collide with walls or their own stack.  
-- **Hold & Swap**  
-  Store one piece in HOLD; swap back when needed (cannot hold after a merge).  
-- **Soft & Hard Drops**  
-  – Soft drop for fine placement  
-  – Hard drop (“slam”) with satisfying sound & flash  
-- **Ghost Preview**  
-  Semi‑transparent outline shows exactly where your piece will land.  
-- **Half‑board Line Clears**  
-  Each player clears lines on their own half—strategize zone control!  
-- **Smooth DAS + ARR**  
-  Delayed Auto Shift (DAS) and Auto Repeat Rate (ARR), tuned for pro‑level responsiveness.  
-- **Pause, Restart & Menu**  
-  Sleek dark‑mode control panel with Pause/Resume, Restart, Fullscreen and Menu buttons.
+A competitive two‑player twist on the classic Tetris game: one player drops blocks from the top, the other from the bottom—meeting in the middle. It offers two modes; Normal and Wacky. Normal more closely resembles standard Tetris, while Wacky mode introduces the ability for falling pieces to merge together, creating a whole new dimension of strategy.
 
 ---
 
