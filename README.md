@@ -22,9 +22,9 @@ A competitive two‑player twist on the classic Tetris game: one player drops bl
 | Soft Drop     | `S`             | ▼ Arrow           |
 | Hard Drop     | `V`             | `.` (Period)      |
 | Hold          | `C`             | `,` (Comma)       |
-| Pause/Resume  | `P` **or** Pause button | Pause button   |
-| Restart Game  | Restart button  | Restart button    |
-| Back to Menu  | Menu button     | Menu button       |
+| Pause/Resume  | `P` **or** Pause button  |
+| Restart Game  | Restart button    |
+| Back to Menu  | Menu button         |
 
 ---
 
