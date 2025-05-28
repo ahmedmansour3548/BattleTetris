@@ -1,4 +1,4 @@
-# 🟦 BattleTetris
+# 🕹 BattleTetris
 
 [![Java Version](https://img.shields.io/badge/Java-11%2B-blue)](https://www.oracle.com/java/)  
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey)](LICENSE)
