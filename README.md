@@ -14,9 +14,7 @@ A competitive two‑player twist on the classic Tetris game. One player drops bl
 | Move Right   | `D`             | ▶️ Arrow         |
 | Rotate       | `W`             | ▲ Arrow         |
 | Soft Drop    | `S`             | ▼ Arrow         |
-| Hard Drop    | `V`             | Space           |
-| Pause/Resume | `P` or ⬤ Pause  | (Button)        |
-| Restart Game | (Button)        | (Button)        |
+| Hard Drop    | `V`             | . (Period)           |
 
 ---
 
