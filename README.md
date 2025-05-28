@@ -25,45 +25,45 @@ A competitive two‑player twist on the classic Tetris game: one player drops bl
   <tbody>
     <tr>
       <td>Move Left</td>
-      <td><code>A</code></td>
-      <td>◀️ Arrow</td>
+      <td align="center"><code>A</code></td>
+      <td align="center">◀️ Arrow</td>
     </tr>
     <tr>
       <td>Move Right</td>
-      <td><code>D</code></td>
-      <td>▶️ Arrow</td>
+      <td align="center"><code>D</code></td>
+      <td align="center">▶️ Arrow</td>
     </tr>
     <tr>
       <td>Rotate (CW)</td>
-      <td><code>W</code></td>
-      <td>▲ Arrow</td>
+      <td align="center"><code>W</code></td>
+      <td align="center">▲ Arrow</td>
     </tr>
     <tr>
       <td>Soft Drop</td>
-      <td><code>S</code></td>
-      <td>▼ Arrow</td>
+      <td align="center"><code>S</code></td>
+      <td align="center">▼ Arrow</td>
     </tr>
     <tr>
       <td>Hard Drop</td>
-      <td><code>V</code></td>
-      <td><code>.</code> (Period)</td>
+      <td align="center"><code>V</code></td>
+      <td align="center"><code>.</code> (Period)</td>
     </tr>
     <tr>
       <td>Hold</td>
-      <td><code>C</code></td>
-      <td><code>,</code> (Comma)</td>
+      <td align="center"><code>C</code></td>
+      <td align="center"><code>,</code> (Comma)</td>
     </tr>
     <tr>
       <td>Pause/Resume</td>
-      <td colspan="2"><code>P</code> <strong>or</strong> Pause button</td>
+      <td colspan="2" align="center"><code>P</code> <strong>or</strong> Pause button</td>
     </tr>
     <tr>
       <td>Restart Game</td>
-      <td colspan="2">Restart button</td>
+      <td colspan="2" align="center">Restart button</td>
     </tr>
     <tr>
       <td>Back to Menu</td>
-      <td colspan="2">Menu button</td>
+      <td colspan="2" align="center">Menu button</td>
     </tr>
   </tbody>
 </table>
