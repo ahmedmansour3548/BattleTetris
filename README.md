@@ -14,17 +14,60 @@ A competitive two‑player twist on the classic Tetris game: one player drops bl
 
 ## 🎮 Controls
 
-| Action        | Player 1        | Player 2          |
-|---------------|-----------------|-------------------|
-| Move Left     | `A`             | ◀️ Arrow           |
-| Move Right    | `D`             | ▶️ Arrow           |
-| Rotate (CW)   | `W`             | ▲ Arrow           |
-| Soft Drop     | `S`             | ▼ Arrow           |
-| Hard Drop     | `V`             | `.` (Period)      |
-| Hold          | `C`             | `,` (Comma)       |
-| Pause/Resume  | `P` **or** Pause button  |
-| Restart Game  | Restart button    |
-| Back to Menu  | Menu button         |
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Player 1</th>
+      <th>Player 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Move Left</td>
+      <td><code>A</code></td>
+      <td>◀️ Arrow</td>
+    </tr>
+    <tr>
+      <td>Move Right</td>
+      <td><code>D</code></td>
+      <td>▶️ Arrow</td>
+    </tr>
+    <tr>
+      <td>Rotate (CW)</td>
+      <td><code>W</code></td>
+      <td>▲ Arrow</td>
+    </tr>
+    <tr>
+      <td>Soft Drop</td>
+      <td><code>S</code></td>
+      <td>▼ Arrow</td>
+    </tr>
+    <tr>
+      <td>Hard Drop</td>
+      <td><code>V</code></td>
+      <td><code>.</code> (Period)</td>
+    </tr>
+    <tr>
+      <td>Hold</td>
+      <td><code>C</code></td>
+      <td><code>,</code> (Comma)</td>
+    </tr>
+    <tr>
+      <td>Pause/Resume</td>
+      <td colspan="2"><code>P</code> <strong>or</strong> Pause button</td>
+    </tr>
+    <tr>
+      <td>Restart Game</td>
+      <td colspan="2">Restart button</td>
+    </tr>
+    <tr>
+      <td>Back to Menu</td>
+      <td colspan="2">Menu button</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
