@@ -4,7 +4,7 @@
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey)](LICENSE)
 
 <p align="center">
-  <img src="logo.png" alt="BattleTetris Logo" width="400"/>
+  <img src="src/img/logo.png" alt="BattleTetris Logo" width="400"/>
 </p>
 
 
